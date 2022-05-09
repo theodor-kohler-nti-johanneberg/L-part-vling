@@ -1,0 +1,6 @@
+Adam, 155
+Annika, 400
+Kim, 608
+Minna, 89
+Petter, 311
+Theo, 5000
