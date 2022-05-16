@@ -1,6 +1,8 @@
 Adam, 155
 Annika, 400
+Jomar, 56
 Kim, 608
 Minna, 89
 Petter, 311
 Theo, 5000
+fsdf, 45
